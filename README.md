@@ -1,6 +1,6 @@
 # Steam Locamotive - Go Port
 
-A Go port of Toyoda Masahi's (Steam Locomotive)[https://github.com/mtoyoda/sl].
+A Go port of Toyoda Masahi's [Steam Locomotive](https://github.com/mtoyoda/sl)
 
 # Why do this?
 
