@@ -53,6 +53,3 @@ func Sl() {
 	term.Animate()
 }
 
-func main() {
-	Sl()
-}
