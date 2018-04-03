@@ -1,6 +1,6 @@
 package main
-import "github.com/gosl/goslib"
+import "github.com/ansoni/gosl/goslib"
 
 func main() {
-        Sl()
+        gosl.Sl()
 }
