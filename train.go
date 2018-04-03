@@ -1,4 +1,4 @@
-package main
+package gosl
 
 import (
         "github.com/ansoni/termination"

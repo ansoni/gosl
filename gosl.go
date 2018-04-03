@@ -1,4 +1,4 @@
-package main
+package gosl
 
 import (
 	"github.com/ansoni/termination"	
@@ -44,11 +44,15 @@ func failSafe(term *termination.Termination) {
 }
 
 
-func main() {
+func Sl() {
 	term := termination.New()
 	go failSafe(term)
 	term.FramesPerSecond = 25
 	//term.Debug = "./debug.out"
 	train1(term)
 	term.Animate()
+}
+
+func main() {
+	Sl()
 }
