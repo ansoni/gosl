@@ -2,6 +2,8 @@
 
 A Go port of Toyoda Masahi's [Steam Locomotive](https://github.com/mtoyoda/sl)
 
+![](gosl.gif)
+
 # Why do this?
 
 Wanted a steam locomotive in my command line (as an easter egg).
